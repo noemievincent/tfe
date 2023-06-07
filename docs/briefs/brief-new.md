@@ -57,10 +57,10 @@ est similaire à Tahoma mais comporte plus de graisses.
 
 Peu après le commencement du projet, j'ai reçu une nouvelle version du logo ayant reçu quelques modifications.
 
-<img src="readme/logo-new.svg"/>
-<img src="readme/003E7A.png" alt="#003E7A" width="120"/>
-<img src="readme/FD8B25.png" alt="#FD8B25" width="120"/>
-<img src="readme/Lato.png" alt="Lato"/>
+<img src="img/logo-new.svg"/>
+<img src="img/003E7A.png" alt="#003E7A" width="120"/>
+<img src="img/FD8B25.png" alt="#FD8B25" width="120"/>
+<img src="img/Lato.png" alt="Lato"/>
 
 ---
 

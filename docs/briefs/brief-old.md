@@ -50,10 +50,10 @@ Les ressources disponibles sont :
 
 Les couleurs du site seront basées sur le logo, bleu (#003E7A) et orange (#FD8B25) et la police utilisée sera Tahoma.
 
-<img src="readme/logo-old.svg"/>
-<img src="readme/003E7A.png" alt="#003E7A" width="120"/>
-<img src="readme/FD8B25.png" alt="#FD8B25" width="120"/>
-<img src="readme/Tahoma.png" alt="Tahoma"/>
+<img src="img/logo-old.svg"/>
+<img src="img/003E7A.png" alt="#003E7A" width="120"/>
+<img src="img/FD8B25.png" alt="#FD8B25" width="120"/>
+<img src="img/Tahoma.png" alt="Tahoma"/>
 
 ---
 
